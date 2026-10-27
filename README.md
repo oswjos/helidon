@@ -1,3 +1,5 @@
+> **Maintenance notice:** This repository is unmaintained and contains outdated dependencies. It is preserved for reference and is not recommended for production use.
+
 <p align="center">
     <img src="./etc/images/Primary_logo_blue.png" height="180">
 </p>
